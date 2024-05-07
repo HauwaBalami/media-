@@ -29,12 +29,12 @@ body{
 .nav-logo{
    display: flex;
    align-items: center;
-   padding-left: 37px;
+   padding-left: 37px;g
 }
 .img1{
     width: 14%;
     border-radius: 6px;
-}g
+}
     
   
 
@@ -127,10 +127,10 @@ body{
     color: white;
     height: 70px;
     border-radius: 5px;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
 .button2{
@@ -139,10 +139,10 @@ body{
     color: white;
     height: 70px;
     border-radius: 5px;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
 .button3{
@@ -151,10 +151,10 @@ body{
     color: white;
     height: 70px;
     border-radius: 5px;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
 .banner2{
